@@ -1,2 +1,2 @@
 # Classification-methods
-Implementing NaiveBayes, Logistic Regression, and Random Forest for classification task
+Implementing Naive Bayes, Logistic Regression, and Random Forest for classification task
